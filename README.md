@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oladipupo-daniel
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently completing my Data Analysis course 
-- 💞️ I’m looking to collaborate on database management and analysis
+- 💞️ I’m looking to collaborate on database analysis and visualization
 - 📫 How to reach me datalityoffice@gmail.com or +234-906-650-6231
 - 😄 Pronouns: Im an He
 - ⚡ Fun fact: I love trying new cool music and dishes
